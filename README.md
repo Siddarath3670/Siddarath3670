@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4DB8FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Tech+Explorer+%26+Builder;Always+Learning+New+Things;Code.+Break.+Improve." />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Siddarath3670&label=Profile%20views&color=0e75b6&style=flat" alt="SiddarathMamadapur" /> 
-</p>
+
 
 ---
 
