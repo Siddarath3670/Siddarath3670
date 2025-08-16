@@ -14,7 +14,11 @@
 - 🤝 Love **collaborating** on creative and practical ideas  
 - 🎯 Goal: To create products that are useful, fun, and impactful  
 
-> 💡 _“Code it. Break it. Improve it. Repeat.”_
+> 💡 _“Code it. Break it. Improve it. Repeat.”
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
