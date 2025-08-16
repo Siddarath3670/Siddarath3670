@@ -47,8 +47,8 @@
 Got a project idea?Or even a silly concept?  
 I’d love to **collaborate and turn it into reality**.  
 
-- 📬 Email: [your-email-here](siddarathmamadapur@gmail.com) 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siddarath-mamadapur)  
+- 📬 Email:(siddarathmamadapur@gmail.com) 
+- 💼 LinkedIn:(https://www.linkedin.com/in/siddarath-mamadapur)  
 - 🖤 GitHub Discussions/Issues are always open  
 
 ---
