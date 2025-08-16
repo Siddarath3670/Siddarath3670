@@ -64,7 +64,7 @@
 
 ## 🤝 Let’s Connect & Build  
 
-Got a project idea? A hackathon? Or even a silly concept?  
+Got a project idea? Or even a silly concept?  
 I’d love to **collaborate and turn it into reality**.  
 
 - 📬 Email: (siddarathmamadapur@gmail.com) 
