@@ -29,15 +29,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddarathMamadapur&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddarath3670&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddarathMamadapur&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Siddarath3670r&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddarathMamadapur&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddarath3670&theme=tokyo-night" />
 </p>
 
 ---
