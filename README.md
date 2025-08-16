@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SiddarathMamadapur&label=Profile%20views&color=0e75b6&style=flat" alt="SiddarathMamadapur" /> 
+  <img src="https://komarev.com/ghpvc/?username=Siddarath3670&label=Profile%20views&color=0e75b6&style=flat" alt="SiddarathMamadapur" /> 
 </p>
 
 ---
@@ -33,15 +33,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddarathMamadapur&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddarath3670&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddarathMamadapur&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Siddarath3670&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddarathMamadapur&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddarath3670&theme=tokyo-night" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddarathMamadapur&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddarath3670&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -67,8 +67,8 @@
 Got a project idea? A hackathon? Or even a silly concept?  
 I’d love to **collaborate and turn it into reality**.  
 
-- 📬 Email: [your-email-here]  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siddarath-mamadapur)  
+- 📬 Email: (siddarathmamadapur@gmail.com) 
+- 💼 LinkedIn: (https://www.linkedin.com/in/siddarath-mamadapur)  
 - 🖤 GitHub Discussions/Issues are always open  
 
 ---
