@@ -21,7 +21,7 @@
 ## 🛠 Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -44,10 +44,10 @@
 
 ## 🤝 Let’s Connect & Build  
 
-Got a project idea? A hackathon? Or even a silly concept?  
+Got a project idea?Or even a silly concept?  
 I’d love to **collaborate and turn it into reality**.  
 
-- 📬 Email: [your-email-here]  
+- 📬 Email: [your-email-here](siddarathmamadapur@gmail.com) 
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siddarath-mamadapur)  
 - 🖤 GitHub Discussions/Issues are always open  
 
